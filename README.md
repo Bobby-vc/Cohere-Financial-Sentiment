@@ -1,4 +1,4 @@
-# Cohere-Financial-Sentiment
+# Financial News Sentiment Analyzer
 
 A financial NLP web app built on Cohere's API. Paste stock news headlines and get a bullish, bearish, or neutral trading signal with an AI-written analysis and thematic breakdown.
 Built as an extension of my Multi-Agent Financial AI System, replacing the sentiment layer with Cohere's NLP stack.
